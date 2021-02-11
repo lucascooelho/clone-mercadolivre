@@ -17,7 +17,7 @@ const Layout: React.FC = () => {
 
           <Footer />
       </Container>
-  )
+  );
 }
 
 export default Layout;
